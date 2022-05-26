@@ -1,0 +1,16 @@
+~~~~ MODEL TRAINING FILES  ~~~~ :
+
+
+1.Machine Learning classifiers (Data.csv)-  Machine Learning Classifiers.ipynb
+
+2. Neural Network trained on 30 second feature set (Data.csv) - NN_allfeatures_30sec.ipynb
+
+3. Neural Network trained on 3 second feature set (Data_10seg.csv) - NN_allfeatures_3sec.ipynb
+
+4. Neural Network trained on 3 second MFCC only featureset (mfcc_10seg.csv) - NN_onlymfcc_3sec.ipynb
+
+5. CNN model trained on spectogram images (spectogram.zip) - CNN_Spectogram.ipynb
+ 
+6. CNN model trained on 3 second MFCC only feature set  (newdata_10.json) - CNN_onlymfcc.ipynb
+
+
